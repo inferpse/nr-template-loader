@@ -1,0 +1,11 @@
+{
+  "name": "nr-template-loader",
+  "version": "0.0.1",
+  "description": "converts HTML templates to JSON",
+  "main": "index.js",
+  "author": "Sergey",
+  "license": "ISC",
+  "dependencies": {
+    "htmlparser2": "^4.0.0"
+  }
+}
